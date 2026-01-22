@@ -10,7 +10,7 @@ mlflow
 numpy
 dvc
 python-dotenv
-streamlit
+streamlit>=1.35.0
 python-multipart
 opencv-python-headless==4.8.1.78
 streamlit_webrtc
